@@ -342,7 +342,7 @@ function App() {
                 textAlign: "center",
                 fontSize: 36,
                 fontWeight: "bold",
-              }} target={"_blank"} href={'https://snapcares.org/claim-nft-perks/lighthouse+PBC'}>
+              }} target={"_blank"} href={'https://snapcares.org/claim-nft-perks/legendary+lighthouse+PBC'}>
                CLICK HERE TO CLAIM NFT PERKS AND BENEFITS
               </StyledLink>
                     {blockchain.errorMsg !== "" ? (
