@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xce13cF04E0d00efB1a68A156Ea7197D975E2ABEc",
-  "SCAN_LINK": "https://etherscan.io/address/0xce13cF04E0d00efB1a68A156Ea7197D975E2ABEc#code",
+  "CONTRACT_ADDRESS": "0x1818Af57C23027b7e94812165ed00cD5F3e69f58",
+  "SCAN_LINK": "https://etherscan.io/address/0x1818Af57C23027b7e94812165ed00cD5F3e69f58#code",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Rubber Doug - Genesis",
-  "SYMBOL": "DOUG",
-  "MAX_SUPPLY": 300,
+  "NFT_NAME": "Lighthouse PBC NFT - Legendary",
+  "SYMBOL": "LHPB",
+  "MAX_SUPPLY": 5,
   "WEI_COST": 11000000000000000000,
-  "DISPLAY_COST": 0.11,
+  "DISPLAY_COST": 0.15,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/rubber-doug-genesis",

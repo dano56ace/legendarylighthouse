@@ -211,14 +211,14 @@ function App() {
             color: "var(--accent-text)",
           }}
         >
-          Mint your Lighthouse PBC NFT
+          Mint your Legendary Lighthouse PBC NFT
         </s.TextTitle>
         <StyledLink   style={{
                 textAlign: "center",
                 fontSize: 24,
                 fontWeight: "bold",
-              }} target={"_blank"} href={'https://legendarylighthouse.snapcares.io/'}>
-               Click here to Browse our Legendary NFT Collection
+              }} target={"_blank"} href={'https://lighthouse.snapcares.io/'}>
+               Click here to Browse our Regular NFT Collection
               </StyledLink>
               <s.SpacerSmall />
  
@@ -245,7 +245,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              Only 45 Regular NFTs First Come First Serve
+              Only 5 Legendary NFTs First Come First Serve
             </s.TextTitle>
             <s.TextDescription
               style={{
@@ -306,7 +306,7 @@ function App() {
 
 
                     <iframe style={{ width: '100%', overflow: 'auto' }}
-                      src="https://gateway.ipfscdn.io/ipfs/QmPaVYdGue8zEXFKqrtVHpvzBvufM1DYzw5n1of3KVPG88/nft-drop.html?contract=0x40A6033C606126e4a36237FCCB9839DCC1C4cC24&chainId=1"
+                      src="https://gateway.ipfscdn.io/ipfs/QmPaVYdGue8zEXFKqrtVHpvzBvufM1DYzw5n1of3KVPG88/nft-drop.html?contract=0x1818Af57C23027b7e94812165ed00cD5F3e69f58&chainId=1"
                       height={600}
                       frameborder="0"
                     >
@@ -322,8 +322,8 @@ function App() {
                     </s.TextDescription>
                     <s.SpacerSmall/>
                     <CrossmintPayButton
-                clientId="6284972a-5bcb-4041-aabc-229576848ade"
-                mintConfig={{ "type":"thirdweb-drop","totalPrice":"0.15", "quantity":1}}
+                clientId="eb0a795c-d348-4417-b649-60d873d1a7d0"
+                mintConfig={{ "type":"thirdweb-drop","totalPrice":"0.38", "quantity":1}}
             />
                     <s.SpacerSmall />
                     <s.TextTitle
