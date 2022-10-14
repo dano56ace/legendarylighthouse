@@ -312,25 +312,7 @@ function App() {
                     >
                     </iframe>
                     <s.SpacerSmall/>
-                    <s.TextTitle
-              style={{
-                textAlign: "center",
-                fontSize: 24,
-                fontWeight: "bold",
-                color: "var(--accent-text)",
-              }}
-            >
-             IMPORTANT: ONE LAST STEP AFTER PURCHASE! CLAIM YOUR MINTED NFT FOR PERKS AND BENEFITS
-            </s.TextTitle>
-            <s.SpacerSmall />
-
-            <StyledLink   style={{
-                textAlign: "center",
-                fontSize: 36,
-                fontWeight: "bold",
-              }} target={"_blank"} href={'https://snapcares.org/claim-nft-perks/legendary+lighthouse+PBC'}>
-               CLICK HERE TO CLAIM NFT PERKS AND BENEFITS
-              </StyledLink>
+           
                     {blockchain.errorMsg !== "" ? (
                       <>
                         <s.SpacerSmall />
