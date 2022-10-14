@@ -306,26 +306,12 @@ function App() {
 
 
                     <iframe style={{ width: '100%', overflow: 'auto' }}
-                      src="https://gateway.ipfscdn.io/ipfs/QmPaVYdGue8zEXFKqrtVHpvzBvufM1DYzw5n1of3KVPG88/nft-drop.html?contract=0x1818Af57C23027b7e94812165ed00cD5F3e69f58&chainId=1"
-                      height={600}
+                      src="https://paper.xyz/checkout/0f34b572-aaf2-4da7-8244-7fa79e5afb0c"
+                      height={1250}
                       frameborder="0"
                     >
                     </iframe>
                     <s.SpacerSmall/>
-                    <s.TextDescription
-                      style={{
-                        textAlign: "center",
-                        color: "var(--accent-text)",
-                      }}
-                    >
-                      Or Pay with a Credit Card
-                    </s.TextDescription>
-                    <s.SpacerSmall/>
-                    <CrossmintPayButton
-                clientId="eb0a795c-d348-4417-b649-60d873d1a7d0"
-                mintConfig={{ "type":"thirdweb-drop","totalPrice":"0.38", "quantity":1}}
-            />
-                    <s.SpacerSmall />
                     <s.TextTitle
               style={{
                 textAlign: "center",
